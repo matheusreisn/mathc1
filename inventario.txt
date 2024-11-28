@@ -1,0 +1,2 @@
+10,bebida,coca cola,150,7.0
+11,alimento,arroz,150,25.0
